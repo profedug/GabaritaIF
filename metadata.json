@@ -1,0 +1,7 @@
+{
+  "name": "GabaritaIF",
+  "description": "Plataforma de simulados inteligentes para Institutos Federais e Vestibulares.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
